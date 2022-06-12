@@ -26,8 +26,8 @@ By @AnonymousSupport
         [InlineKeyboardButton("How to use me 🤔", callback_data="help"),
             InlineKeyboardButton("🤗 About Me 🤗", callback_data="about")
         ],
-        [InlineKeyboardButton("😎 More Amazing bots 😎", url="https://t.me/AnonymousSupport")],
-        [InlineKeyboardButton("😘 Support Group 😘", url="https://t.me/AnonymousRobotSupport")],
+        [InlineKeyboardButton("😎 More Amazing bots 😎", url="https://t.me/mp_bots")],
+        [InlineKeyboardButton("😘 Support Group 😘", url="https://t.me/bees_tech")],
     ]
 
     # Help Message
@@ -60,13 +60,13 @@ Example : `/fsub -1001756847896 or `/forcesubscribe -1001756847896
     ABOUT = """
 **About This Bot** 
 
-A telegram force subscribe bot by @AnonymousSupport
+A telegram force subscribe bot by @muzzu6
 
-Source Code : [Force Subscribe](https://github.com/AnonymousBoy1025/ForceSubscribeBot)
+Source Code : [Force Subscribe](https://github.com)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : [Anonymous Boy](telegram.me/anonymous_was_bot)
+Developer : [muzz](telegram.me/muzzu6)
     """
